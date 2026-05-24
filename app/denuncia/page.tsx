@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use client';
 import { useState, useEffect } from 'react';
 import { supabase } from '@/services/supabaseClient';
@@ -126,3 +127,6 @@ export default function ReportingForm() {
     </div>
   );
 }
+=======
+
+>>>>>>> 1e4c165d3bad87eb56901b9aba82e84cd84ded2a

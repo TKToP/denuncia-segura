@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "Portal de Notícias",
   "short_name": "Notícias",
+=======
+  "name": "Portal de NotÃ­cias",
+  "short_name": "NotÃ­cias",
+>>>>>>> 1e4c165d3bad87eb56901b9aba82e84cd84ded2a
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }
   ],
@@ -8,4 +13,8 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1e4c165d3bad87eb56901b9aba82e84cd84ded2a
